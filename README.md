@@ -22,7 +22,7 @@ To use Group Guardianship, simply add the bot to your Telegram group and promote
 
 <p align="center">
     <a href="https://heroku.com/deploy?template=https://github.com/pallavisarkaar07/group">
-    <img src="https://github.com/pallavisarkaar07/group/blob/main/herokudeploy-01.svg" alt="herokudeploy-01" border="0" height="90" width="285"></a>
+    <img src="https://github.com/nacbots/broadcastbot/blob/main/herokudeploy-01.svg" alt="herokudeploy-01" border="0" height="90" width="285"></a>
 </p>
 
 ### Host Locally 🤕
